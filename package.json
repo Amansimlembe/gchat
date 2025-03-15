@@ -1,0 +1,16 @@
+{
+    "name": "g-chat-app",
+    "version": "1.0.0",
+    "description": "A simple G Chat app using Socket.io",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "socket.io": "^4.8.1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
